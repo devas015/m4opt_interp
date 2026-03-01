@@ -1,4 +1,4 @@
-import scipy.interpolate
+import numpy as np
 
 
 def athena_interp(points, y, t):
